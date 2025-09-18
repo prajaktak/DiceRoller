@@ -39,6 +39,7 @@ struct ContentView: View {
             .padding()
             .labelStyle(.iconOnly)
             .font(.title)
+            .symbolRenderingMode(.multicolor)
             
         }
         .padding()
